@@ -3,7 +3,7 @@ git add .
 git commit -m "message for adding"
 git branch -M main 
 git remote add origin https://github.com/Aboali50/Important-Files.git : link the repo
-git push -u origin main / or git pull -u origin main
+git push -u origin main / or git pull  origin main
 تذكر دائما يجب ان تضع الايميل واسم المستخدم بعد init لضمان نجاح العملياتين
 (git config user.email "example@gmail.com")
 (git config user.name "UserName" ) 
